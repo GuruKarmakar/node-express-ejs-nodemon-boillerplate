@@ -1,0 +1,6 @@
+##You just have to  install node_module in order to run.
+##Open your terminal and just run this command mentioned below ---->
+
+cmd : npm install
+
+url : http://localhost:3030
