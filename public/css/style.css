@@ -1,19 +1,19 @@
 body{
-    margin: 0;
+    margin: 40px;
     padding: 0;
     font-family: sans-serif
 }
 .logo{
     width: 120px;
     height: 120px;
-    margin-left:560px
+    margin-left:530px
 }
 .text-color {
     text-align: center;
     color: green
 }
 .info{
-margin: 20px;
+
 color : teal;
 font-size: 18px
 }
